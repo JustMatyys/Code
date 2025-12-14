@@ -1,0 +1,78 @@
+{
+  "name": "Test Level",
+  "difficulty": 3,
+  "time_limit": 30.0,
+  "background_color": [
+    30,
+    30,
+    50
+  ],
+  "spawn_point": [
+    100,
+    600
+  ],
+  "end_point": [
+    900,
+    300
+  ],
+  "platforms": [
+    {
+      "x": 50,
+      "y": 650,
+      "width": 900,
+      "height": 30,
+      "type": "ground",
+      "color": [
+        100,
+        150,
+        100
+      ],
+      "speed": 0,
+      "direction": 1
+    },
+    {
+      "x": 200,
+      "y": 550,
+      "width": 150,
+      "height": 20,
+      "type": "ground",
+      "color": [
+        100,
+        150,
+        100
+      ],
+      "speed": 0,
+      "direction": 1
+    },
+    {
+      "x": 500,
+      "y": 450,
+      "width": 150,
+      "height": 20,
+      "type": "ground",
+      "color": [
+        100,
+        150,
+        100
+      ],
+      "speed": 0,
+      "direction": 1
+    }
+  ],
+  "obstacles": [
+    {
+      "x": 350,
+      "y": 600,
+      "width": 40,
+      "height": 50,
+      "type": "box",
+      "color": [
+        255,
+        100,
+        100
+      ],
+      "speed": 0,
+      "direction": 1
+    }
+  ]
+}

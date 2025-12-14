@@ -1,0 +1,76 @@
+{
+  "name": "Starter Level",
+  "difficulty": 1,
+  "time_limit": 0,
+  "background_color": [30, 30, 40],
+  "spawn_point": [100, 500],
+  "end_point": [1200, 300],
+  "platforms": [
+    {
+      "x": 0,
+      "y": 600,
+      "width": 1280,
+      "height": 20,
+      "type": "ground",
+      "color": [100, 200, 100]
+    },
+    {
+      "x": 300,
+      "y": 300,
+      "width": 200,
+      "height": 20,
+      "type": "ground",
+      "color": [100, 150, 200]
+    },
+    {
+      "x": 300,
+      "y": 500,
+      "width": 200,
+      "height": 20,
+      "type": "ground",
+      "color": [100, 150, 200]
+    },
+    {
+      "x": 600,
+      "y": 400,
+      "width": 200,
+      "height": 20,
+      "type": "ground",
+      "color": [100, 150, 200]
+    },
+    {
+      "x": 600,
+      "y": 200,
+      "width": 200,
+      "height": 20,
+      "type": "ground",
+      "color": [100, 150, 200]
+    },
+    {
+      "x": 900,
+      "y": 300,
+      "width": 200,
+      "height": 20,
+      "type": "ground",
+      "color": [100, 150, 200]
+    }
+  ],
+  "obstacles": [
+    {
+      "x": 900,
+      "y": 200,
+      "width": 40,
+      "height": 100,
+      "type": "box",
+      "color": [255, 100, 0]
+    },
+    {
+      "x": 900,
+      "y": 320,
+      "width": 40,
+      "height": 100,
+      "type": "box",
+      "color": [255, 100, 0]
+    }
+  ]
+}
