@@ -1,0 +1,78 @@
+{
+  "name": "Custom Level 1",
+  "difficulty": 5,
+  "time_limit": 0.0,
+  "background_color": [
+    20,
+    20,
+    30
+  ],
+  "spawn_point": [
+    847,
+    379
+  ],
+  "end_point": [
+    900,
+    300
+  ],
+  "platforms": [
+    {
+      "x": 228,
+      "y": 293,
+      "width": 305,
+      "height": 20,
+      "type": "ground",
+      "color": [
+        100,
+        150,
+        100
+      ],
+      "speed": 0,
+      "direction": 1
+    },
+    {
+      "x": 643,
+      "y": 437,
+      "width": 170,
+      "height": 20,
+      "type": "ground",
+      "color": [
+        100,
+        150,
+        100
+      ],
+      "speed": 0,
+      "direction": 1
+    }
+  ],
+  "obstacles": [
+    {
+      "x": 545,
+      "y": 257,
+      "width": 40,
+      "height": 104,
+      "type": "box",
+      "color": [
+        255,
+        100,
+        100
+      ],
+      "speed": 0,
+      "direction": 1
+    },
+    {
+      "x": 105,
+      "y": 215,
+      "width": 90,
+      "height": 30,
+      "type": "box",
+      "color": [
+        255,
+        100,
+        100
+      ],
+      "speed": 0,
+      "direction": 1
+    }
+  ]
+}
